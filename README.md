@@ -1,6 +1,8 @@
 # PRML
 Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning"
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cranmer/PRML/master)
+
 ## Required Packages
 - python 3
 - numpy
